@@ -149,4 +149,4 @@ INTERNAL_IPS = ['127.0.0.1']
 import sys
 
 if 'test' in sys.argv:
-    TEST_RUNNER = '../api/no_op_test_runner.NoOpTestRunner'
+    TEST_RUNNER = 'api.no_op_test_runner.NoOpTestRunner'
