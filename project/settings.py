@@ -111,6 +111,14 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+CSRF_TRUSTED_ORIGINS = [
+    "https://group19-ecs639u-group19.apps.a.comp-teach.qmul.ac.uk",
+]
+
+ALLOWED_HOSTS = [
+    "group19-ecs639u-group19.apps.a.comp-teach.qmul.ac.uk",
+]
+
 # Login URLs
 LOGIN_URL = 'api/login/'
 LOGIN_REDIRECT_URL = '/'
