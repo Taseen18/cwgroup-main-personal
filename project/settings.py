@@ -116,8 +116,7 @@ CSRF_TRUSTED_ORIGINS = [
 ]
 
 ALLOWED_HOSTS = [
-    'group19-ecs639u-group19.apps.a.comp-teach.qmul.ac.uk',
-    '10.134.51.255',  
+    '*',  
 ]
 
 # Login URLs
