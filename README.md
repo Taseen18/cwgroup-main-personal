@@ -1,6 +1,6 @@
 # ECS639U Group 19 Coursework
 
-This is the source code for Group 19's coursework in the module ECS639U Web Programming (at Queen Mary University of London). Module leader: Paulo Oliva <[p.oliva@qmul.ac.uk](mailto:p.oliva@qmul.ac.uk)>. The coursework can be found in the file named
+This is the source code for Group 19's coursework in the module ECS639U Web Programming (at Queen Mary University of London). Module leader: Paulo Oliva <[p.oliva@qmul.ac.uk](mailto:p.oliva@qmul.ac.uk)>.
 
 ### Openshift Deployment
 https://group19-ecs639u-group19.apps.a.comp-teach.qmul.ac.uk
