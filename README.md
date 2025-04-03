@@ -1,6 +1,6 @@
 # ECS639U Group 19 Coursework
 
-This is the source code for Group 19's coursework in the module ECS639U Web Programming (at Queen Mary University of London). Module leader: Paulo Oliva <[p.oliva@qmul.ac.uk](mailto:p.oliva@qmul.ac.uk)>
+This is the source code for Group 19's coursework in the module ECS639U Web Programming (at Queen Mary University of London). Module leader: Paulo Oliva <[p.oliva@qmul.ac.uk](mailto:p.oliva@qmul.ac.uk)>. The coursework can be found in the file named
 
 ### Openshift Deployment
 https://group19-ecs639u-group19.apps.a.comp-teach.qmul.ac.uk
@@ -8,15 +8,12 @@ https://group19-ecs639u-group19.apps.a.comp-teach.qmul.ac.uk
 ## Collaborators
 Name: Taseen Kamil Rahman<br>
 SID: 220359634<br>
-Contributions: Performed initial setup of repo. Implemented login and signup as well as csrf authentication. Added a navbar to the application. Wrote automated tests and prepared application for submission and deployment.<br>
 
 Name: Isa Tahir Islam<br>
 SID: 220410164<br>
-Contributions: Developed the backend and frontend for the profile page with hobbies and the password reset page.<br>
 
 Name: Lukas Labanok<br>
 SID: 220650014<br>
-Contributions: Developed frontend and backend for the similar users page and for the friends page.<br>
 
 ## Submission Setup Notes
 1. Run Django migrations to create the database schema:
